@@ -80,12 +80,7 @@ src/
 - Expor operações via API REST.
 - Adicionar pipeline de CI para build e testes.
 
-## Espaço para Links Futuros
 
-- Figma: [adicionar link]
-- Banco de Dados: [adicionar link]
-- Deploy: [adicionar link]
-- Documentação complementar: [adicionar link]
 
 ## Autor
 
