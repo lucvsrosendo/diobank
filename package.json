@@ -1,0 +1,22 @@
+{
+  "name": "dio-bank-refatorado-ts",
+  "version": "1.0.0",
+  "description": "Refatoracao do desafio DIO de fundamentos TypeScript",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/app.js"
+  },
+  "keywords": [
+    "typescript",
+    "clean-code",
+    "oop"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
+  }
+}
