@@ -89,5 +89,5 @@ src/
 
 ## Autor
 
-Feito por **[Seu Nome](https://github.com/seu-usuario)**.
+Feito por Lucas Rosendo
 
